@@ -1,0 +1,43 @@
+* {
+    margin: 0%;
+    font-family: Arial, 'Comic Sans MS', Helvetica, webdings, sans-serif;
+}
+
+header {
+    background-color: orange;
+    color: white;
+    padding: 15px;
+}
+
+.bannerimg {
+    max-width: 100%;
+}
+
+#linkbold {
+    font-weight: bold;
+    color: rgb(167, 167, 167);
+}
+
+a:link {
+    color: orange;
+    text-decoration: none
+}
+
+a:hover {
+    color: rgb(255, 189, 67)
+}
+
+a:visited {
+    color: orange;
+    text-decoration: none
+}
+
+footer {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px;
+    background-color: #1a1a1a;
+    color: rgb(167, 167, 167);
+    font-size: 0.9em;
+}
